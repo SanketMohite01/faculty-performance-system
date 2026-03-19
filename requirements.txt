@@ -10,5 +10,3 @@ supabase==2.10.0
 postgrest==0.18.0
 tqdm>=4.66.0
 gunicorn==23.0.0
-gunicorn
-gunicorn
